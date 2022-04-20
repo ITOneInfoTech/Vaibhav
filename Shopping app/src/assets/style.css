@@ -1,0 +1,51 @@
+
+
+
+.add-btn {
+    margin-bottom: 10px; 
+    color: #fff;
+}
+
+.parent-block {
+    padding: 10px 
+}
+
+.sort-option {
+    padding-left: 100px;
+    padding-top: 25px;
+}
+
+.card-align {
+    margin-bottom: 15px;
+    margin-top: 15px;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+
+p {
+    font-family: "Helvetica Neue,Helvetica,Arial,sans-serif";
+    font-size: 14px;
+    line-height: 1.42857143;
+}
+
+
+.item-desc {
+    float: left;
+}
+
+.cart{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.collection-item {
+    text-align: center;
+}
+
+
+td {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
